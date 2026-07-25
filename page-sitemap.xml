@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este sitemap foi gerado dinamicamente em julho 25, 2026 às 1:08 am pelo All in One SEO v4.9.0, o plugin de SEO original para o WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://oriongeosolucoes.com.br/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://oriongeosolucoes.com.br/]]></loc>
+		<lastmod><![CDATA[2023-11-07T18:05:48+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-7.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/imagem_2023-10-13_135417260.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-4.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-5.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://oriongeosolucoes.com.br/wp-content/uploads/2023/10/Site-da-Orion-6.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://oriongeosolucoes.com.br/https-oriongeosolucoes-com-br-portfolio/]]></loc>
+		<lastmod><![CDATA[2023-11-06T18:15:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
